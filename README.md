@@ -10,3 +10,9 @@ Data Analytics Fundamentals Week 7 of 7 Project
 5. Create the virtual environment
 6. Activate virtual environment
 7. Add - Commit - Push
+
+
+## Acquiring Needed Material for Coursework
+1. Implemented `add_examples.ps1` using ChatGPT
+2. Ran the script
+3. Add - Commit - Push
