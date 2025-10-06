@@ -346,3 +346,7 @@ plotly
 
 scipy
 pyarrow
+pymongo
+pyspark
+tensorflow
+wordcloud
