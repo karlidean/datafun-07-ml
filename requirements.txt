@@ -350,3 +350,4 @@ pymongo
 pyspark
 tensorflow
 wordcloud
+sklearn
