@@ -21,3 +21,8 @@ Data Analytics Fundamentals Week 7 of 7 Project
 1. Went through Chapter 10 examples from book's python repo.
 2. Created my own version in `testdeck.py` which is in the Chapter 10 folder.
 3. Add - Commit - Push
+
+## Chapter 15 Work
+1. Went through Chapter 15 examples from book's python repo.
+2. Utilized the Chapter 15 folder contents for this completion and verification.
+3. Add - Commit - Push
