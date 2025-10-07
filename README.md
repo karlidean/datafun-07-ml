@@ -26,3 +26,11 @@ Data Analytics Fundamentals Week 7 of 7 Project
 1. Went through Chapter 15 examples from book's python repo.
 2. Utilized the Chapter 15 folder contents for this completion and verification.
 3. Add - Commit - Push
+
+## Completing P7: Predictive Machine Learning Project
+1. Moved files from folders to main repo directory
+   1. Verified Jupyter notebooks still ran correctly.
+   2. At least the ones that were aforementioned in the project directions.
+2. Created a new Jupyter Notebook to complete this project in
+   1. This notebook is called `karlidean_ml.ipynb`.
+3. Add - Commit - Push
