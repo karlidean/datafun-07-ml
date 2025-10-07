@@ -40,3 +40,10 @@ Data Analytics Fundamentals Week 7 of 7 Project
 2. Using pandas dfs to plot Celsius v. Farenheit
 3. Refreshing an understanding of the equation `y=mx+b`
 4. Add - Commit - Push
+
+## CC: Predicting Average High Temperatures in NYC in January (Part 2)
+1. Followed instructions from 10.16 in the textbook
+2. Complete a Linear Regression (Line of Best Fit) Model
+3. Predict a future point (year 2024 for this model)
+4. Plot the model and line of best fit
+5. Add - Commit - Push
