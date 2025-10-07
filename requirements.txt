@@ -350,4 +350,4 @@ pymongo
 pyspark
 tensorflow
 wordcloud
-sklearn
+scikit-learn

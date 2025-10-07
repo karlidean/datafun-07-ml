@@ -34,3 +34,9 @@ Data Analytics Fundamentals Week 7 of 7 Project
 2. Created a new Jupyter Notebook to complete this project in
    1. This notebook is called `karlidean_ml.ipynb`.
 3. Add - Commit - Push
+
+## CC: Charting a Straight Line (Part 1)
+1. Following instructions from 10.16 in the textbook
+2. Using pandas dfs to plot Celsius v. Farenheit
+3. Refreshing an understanding of the equation `y=mx+b`
+4. Add - Commit - Push
