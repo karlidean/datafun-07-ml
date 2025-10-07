@@ -16,3 +16,8 @@ Data Analytics Fundamentals Week 7 of 7 Project
 1. Implemented `add_examples.ps1` using ChatGPT
 2. Ran the script
 3. Add - Commit - Push
+
+## Chapter 10 Work
+1. Went through Chapter 10 examples from book's python repo.
+2. Created my own version in `testdeck.py` which is in the Chapter 10 folder.
+3. Add - Commit - Push
