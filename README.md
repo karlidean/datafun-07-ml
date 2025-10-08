@@ -47,3 +47,9 @@ Data Analytics Fundamentals Week 7 of 7 Project
 3. Predict a future point (year 2024 for this model)
 4. Plot the model and line of best fit
 5. Add - Commit - Push
+
+## CC: Predict Avg High Temp in NYC in January (Part 3)
+1. Used Python to split the data into a subset to train the model and a set to test the model
+2. Trained and Tested my model
+3. Predicted temperatures using limear regressions
+4. Created graphs that represent the data well
