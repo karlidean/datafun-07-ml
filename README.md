@@ -53,3 +53,10 @@ Data Analytics Fundamentals Week 7 of 7 Project
 2. Trained and Tested my model
 3. Predicted temperatures using limear regressions
 4. Created graphs that represent the data well
+
+## CC: Insights (Part 4)
+1. Created a code that creates a metric table to analyze each graph.
+   1. With the help of ChatGPT and friends who code.
+   2. It was easier because I knew what I wanted to find, I just didn't know how to find it.
+2. Wrote insights about each step of my process throughout notebook.
+3. Add - Commit - Push
